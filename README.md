@@ -19,3 +19,6 @@
   <li><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></li>
   <li><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></li>
 </ul>
+
+# <h2> ERD </h2>
+![ERD_최종](https://user-images.githubusercontent.com/88241376/163239617-1ed8374a-aae1-4b58-9587-a3e1c32371f2.PNG)
