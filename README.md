@@ -12,11 +12,10 @@
 
 # <h2> :computer: 사용 기술</h2>
 <ul>
-  <li><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/JDBC-512DA8?style=flat-square&logo=JDBC&logoColor=white"/></li>
   <li><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></li>
   <li><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></li>
-  <li><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></li>
-  <li><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></li>
+  <li><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></li>
   <li><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></li>
 </ul>
 
