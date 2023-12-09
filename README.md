@@ -1,4 +1,4 @@
-# :shaved_ice: PosOfFourth :shaved_ice:
+# 🍨 PosOfFourth 🍨
 # <h2> :bulb: Overview</h2>
 Recently, there has been an increase in the number of payment systems that use kiosks to make payments instead of face-to-face payments.
 
